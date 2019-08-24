@@ -1,2 +1,2 @@
 # kakao-clone
- kakao
+ Wellcome to my kakao clone!
